@@ -1,0 +1,11 @@
+Idea One:
+    Creating a sort of Visual Novel experience.
+        To create a sort of scenario-trainer/empathy trainer. The player will be prompted to talk to a character who is going through a dark phase. Perhaps having suicidal ideation. The player will then be asked to choose an emotion based off ![plutchik](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Plutchik-wheel.svg/350px-Plutchik-wheel.svg.png). Each level of emotion will give a different response. Using this system the player will go through 3-4 scenarios and receive a different ending depending on what choices they made. The biggest problem would be creating an intuitive UI, but other things to consider are the flags that need to be set. Overall this idea is the most interesting one in my opinion. Writing 24 different dialouge choices is also somewhat daunting, maybe just writing 8 dialouge based off solely of the emotion rather than emotion and strength would be better.
+        
+Idea Two:
+        Creating a small adventure game
+            Bringing up the various p5 directories actually made me curious. The player would be able to move in 4 directions as they explore a top down representation of a cave/mine. They win by surviving as every so often they will encounter various traps/enemies/puzzles that they have to deal with. Of the three ideas I had this would definitely be the most time consuming in my opinion, though I haven't really checked how robust the p5 game maker directory is. 
+            
+Idea Three:
+        A dropper game.
+            A pretty simple game in concept. The player will endlessly fall down a tower/shaft. They'll have to avoid hazards/enemies. The longer the player survives the more points they receive. Probably the weakest ideas of the bunch. I was considering making this a form of social change game, but marrying a modern day problem with a game about dropping down a tower is easier said than done. Currently I was considering making the game about alcoholism/addiction, the "down the rabbit-hole" type of thing, but then the score would have to change completely to reflect how going deeper into the depths is bad, which could be as simple as making the score negative. Making the idea just be: "excessive drinking bad, going down the shaft is bad" is kinda lame, will have to think on it more.
